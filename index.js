@@ -13,9 +13,7 @@ const printMan = () => {
 owKneeMan();
 printMan();
 // Ej 3
-const addToArray = () => {
-	array.push("you dad");
-}
+const addToArray = () => array.push("you dad");
 addToArray();
 owKneeMan();
 // Ej 4
